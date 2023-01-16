@@ -1,0 +1,28 @@
+
+/* akaya-kanadaka-regular - latin */
+@font-face {
+  font-family: 'Akaya Kanadaka';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/akaya-kanadaka-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/akaya-kanadaka-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/akaya-kanadaka-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/akaya-kanadaka-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/akaya-kanadaka-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/akaya-kanadaka-v16-latin-regular.svg#AkayaKanadaka') format('svg'); /* Legacy iOS */
+}
+
+/* allerta-regular - latin */
+@font-face {
+  font-family: 'Allerta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/allerta-v18-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/allerta-v18-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/allerta-v18-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/allerta-v18-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/allerta-v18-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/allerta-v18-latin-regular.svg#Allerta') format('svg'); /* Legacy iOS */
+}
